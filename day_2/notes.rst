@@ -10,3 +10,6 @@ Example notes
 .. warning::
 
    Be careful 
+
+
+Finished using python as a calculator
