@@ -96,8 +96,9 @@ message saying "the number is above 100"
 Exercise 07:
 ------------
 
-Write that  will keep asking the user for a number below 100 until the provided
-number is a prime number.
+Write a code that ask the user for a number below 100. If the number provided is 
+not a prime number it should ask the user for another number. the program will 
+only stop after the user provides a prime number. 
 
 
 Exercise 08:
@@ -105,7 +106,7 @@ Exercise 08:
 
 Repeat exercise 07, but now try to annoy the user. If the user fails 1 time send
 him an encouraging message, if the user fails 3 times send a mocking message. 
-Anytime the user fails over 5 times send the user an angry message.
+Anytime the user provides a previous guess send the user an angry message.
 
 Exercise 09:
 ------------
