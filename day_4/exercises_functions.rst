@@ -12,7 +12,7 @@ Exercise 02:
 ------------
 
 Write a function that given a number, it will print if the number
-is divisible by 2, or 3. And will also display the reminder of dividing it by
+is divisible by 2, or 3. And will also display the remainder of dividing it by
 7 if the number is larger than 7. 
 
 Constraints: 
@@ -20,13 +20,13 @@ Constraints:
 *  If the number is divisible by 2 and smaller or equal to 7 it should only 
    print that it is divisible by 2. 
 *  If the number is divisible by 2 and larger than 7 it should print that it is 
-   divisible by 2 and the reminder of dividing by 7. 
+   divisible by 2 and the remainder of dividing by 7. 
 *  If the number is divisible by 3 and smaller or equal to 7 it should only 
    print that it is divisible by 3. 
 *  If the number is divisible by 3 and larger than 7 it should print that it is 
-   divisible by 3 and the reminder of dividing by 7.
+   divisible by 3 and the remainder of dividing by 7.
 *  If the number is not divisible by 2 nor 3, but larger than 7 it should only
-   print the reminder of dividing by 7
+   print the remainder of dividing by 7
 *  Otherwise it should not print anything
 
 
@@ -60,7 +60,7 @@ and prints many "items" you can afford with that budget. It should display
 a nice message telling you how many units of the specific item you 
 can afford with the budget and how much money you have left. You can't
 use multiplication (*), division (/), integer division (//) 
-nor reminder operations (%). If the specified item is not in the costs it should 
+nor remainder operations (%). If the specified item is not in the costs it should 
 NOT raise an error, but handle it appropriatedly (feel free to "scream" at the 
 user, ignore the user or whatever you feel is appropriate)
 
