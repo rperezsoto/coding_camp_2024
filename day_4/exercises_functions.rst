@@ -56,7 +56,7 @@ Exercise 04:
 ------------
 
 Write a function that takes in three parameters, "budget", "item" and "costs" 
-and prints many "items" you can afford with that budget. It should display
+and prints how many "items" you can afford with that budget. It should display
 a nice message telling you how many units of the specific item you 
 can afford with the budget and how much money you have left. You can't
 use multiplication (*), division (/), integer division (//) 
